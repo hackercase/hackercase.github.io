@@ -25,7 +25,7 @@
               <div class="image-wrap">
                 <div class="image-info">
                   <h2 class="mb-3">CASE</h2>
-                  <a href="customcase.php" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                  <a href="customcase.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                 </div>
                 <img src="images/img_01a.jpg" alt="Image">
               </div>
