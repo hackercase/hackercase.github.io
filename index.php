@@ -33,26 +33,8 @@
             <div class="swiper-slide">
               <div class="image-wrap">
                 <div class="image-info">
-                  <h2 class="mb-3">MUG</h2>
-                  <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
-                </div>
-                <img src="images/img_02.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="image-wrap">
-                <div class="image-info">
-                  <h2 class="mb-3">THUMBLER</h2>
-                  <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
-                </div>
-                <img src="images/img_03.jpg" alt="Image">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="image-wrap">
-                <div class="image-info">
                   <h2 class="mb-3">KAOS</h2>
-                  <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                  <a href="kaos.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                 </div>
                 <img src="images/img_04.png" alt="Image">
               </div>
@@ -61,9 +43,18 @@
               <div class="image-wrap">
                 <div class="image-info">
                   <h2 class="mb-3">FLASHDISC</h2>
-                  <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                  <a href="flashdisc.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                 </div>
                 <img src="images/img_05.png" alt="Image">
+              </div>
+            </div>
+			<div class="swiper-slide">
+              <div class="image-wrap">
+                <div class="image-info">
+                  <h2 class="mb-3">Pop Socket</h2>
+                  <a href="socket.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                </div>
+                <img src="images/img_07.jpg" alt="Image">
               </div>
             </div>
             <div class="swiper-slide">
@@ -75,13 +66,23 @@
                 <img src="images/img_06.png" alt="Image">
               </div>
             </div>
-            <div class="swiper-slide">
+			<div class="swiper-slide">
               <div class="image-wrap">
                 <div class="image-info">
-                  <h2 class="mb-3">Pop Socket</h2>
+                  <h2 class="mb-3">THUMBLER</h2>
                   <a href="single.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
                 </div>
-                <img src="images/img_07.jpg" alt="Image">
+                <img src="images/img_03.jpg" alt="Image">
+              </div>
+            </div>
+            
+			<div class="swiper-slide">
+              <div class="image-wrap">
+                <div class="image-info">
+                  <h2 class="mb-3">MUG</h2>
+                  <a href="mug.html" class="btn btn-outline-white py-2 px-4">More Photos</a>
+                </div>
+                <img src="images/img_02.jpg" alt="Image">
               </div>
             </div>
         </div>
